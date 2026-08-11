@@ -1,0 +1,9 @@
+event_name,overall_rating,content_rating,speaker_rating,organization_rating,feedback
+AI Workshop,5,5,5,4,Excellent content and a very engaging speaker.
+AI Workshop,4,4,5,4,Helpful session with clear examples.
+Career Seminar,3,3,4,3,Good speaker but the session was a little long.
+Career Seminar,2,3,2,2,The room was disorganized and the presentation was confusing.
+Cultural Fest,5,4,5,5,Amazing event and well organized.
+Cultural Fest,4,4,4,5,Great experience with useful activities.
+Coding Bootcamp,3,4,3,3,Good exercises but the pace was too fast.
+Coding Bootcamp,2,2,3,2,Boring introduction and late start.
